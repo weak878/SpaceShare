@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "SpaceShare",
+    "slug": "spaceshare",
+    "version": "1.0.0",
+    "ios": {
+      "supportsTabletMode": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    }
+  }
+}
